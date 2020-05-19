@@ -1,6 +1,8 @@
 insert into exchange_value(id,currency_from,currency_to,conversion_multiple,port)
-values(10001,'USD','INR',65,0);
+values(10001,'USD','RUR',72.38,0);
 insert into exchange_value(id,currency_from,currency_to,conversion_multiple,port)
-values(10002,'EUR','INR',75,0);
+values(10002,'EUR','RUR',78.32,0);
 insert into exchange_value(id,currency_from,currency_to,conversion_multiple,port)
-values(10003,'AUD','INR',25,0);
+values(10003,'GBP','RUR',87.83,0);
+insert into exchange_value(id,currency_from,currency_to,conversion_multiple,port)
+values(10004,'GHF','RUR',74.46,0);
